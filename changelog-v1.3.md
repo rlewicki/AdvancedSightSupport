@@ -1,0 +1,5 @@
+- Add "SetPerceivable" blueprint callable function to the Advanced Sight Target Component allowing a target to become "invisible" or "perceivable" to the NPCs ([#6](https://github.com/rlewicki/AdvancedSightSupport/issues/6))
+- Add data table row definition allowing to define custom team relationships (friendly, neutral, hostile). Previously, teams with different IDs were always considered hostile ([#7](https://github.com/rlewicki/AdvancedSightSupport/issues/7))
+- Add "AddGainToTarget" blueprint callable function to the Advanced Sight Component allowing to manually add specified gain value for a selected target ([#8](https://github.com/rlewicki/AdvancedSightSupport/issues/8))
+- Add "UpdateTeamsRelationship" blueprint callable function to the Advanced Sight System allowing  to update relationship between teams in runtime
+- Add "ForcePerceiveTarget" blueprint callalbe function to the Advanced Sight Component allowing to user to forcefully perceive a selected target
