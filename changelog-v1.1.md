@@ -1,0 +1,1 @@
+- Move some advanced sight system properties from protected to public access modifier so they can be easily accessed outside of the system to write custom logic ([#1](https://github.com/rlewicki/AdvancedSightSupport/issues/1))
