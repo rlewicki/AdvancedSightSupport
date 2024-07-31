@@ -1,0 +1,3 @@
+- Add new component that allows to define agent's team id without using base C++ character class ([#5](https://github.com/rlewicki/AdvancedSightSupport/issues/5))
+- Fix issue with plugin's content not appearing properly when using it with versions older than 5.4 ([#4](https://github.com/rlewicki/AdvancedSightSupport/issues/4))
+- Fix warning appearing first time PIE is started caused by advanced sight system defining it supports Editor worlds instead only PIE and Game
